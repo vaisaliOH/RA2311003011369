@@ -1,0 +1,9 @@
+{
+  "name": "campus-logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging helper for the campus notification submission.",
+  "main": "index.js",
+  "type": "commonjs",
+  "private": true
+}
+
