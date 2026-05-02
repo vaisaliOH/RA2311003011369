@@ -1,7 +1,7 @@
 THE LAPTOP VIEW
 
 <img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/37a9153d-7f8a-48d6-b9e1-9e97884aeacc" />
-<img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/edeb7260-b028-4f03-b9a3-978524fe86cb" />
+<img width="1891" height="917" alt="image" src="https://github.com/user-attachments/assets/bfee612d-a2a7-4d36-ab39-2852ea017c23" />
 
 THE MOBILE VIEW
 
